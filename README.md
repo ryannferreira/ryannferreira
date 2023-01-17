@@ -1,5 +1,6 @@
 ## Olá, eu sou o Ryan!
 
+Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryan-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Ryan-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -9,6 +10,8 @@
 </div>
 
 ##
+
+## Contato:
 
 <div> 
   <a href = "mailto:Ryan_ferreira26@Hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
