@@ -1,6 +1,5 @@
-## Olá, eu sou o Ryan!
+## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Ryan! 
 
-Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryan-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Ryan-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
