@@ -16,7 +16,8 @@ Atualmente estou cursando Sistemas de Informação na Universidade Santa Cecíli
         
 ## Estou aprendendo
 
-[![My Skills](https://skillicons.dev/icons?i=angular,javascript,typescript,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css&theme=light)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" widht = 50px, height=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" widht = 60px, height=60px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" widht = 60px, height=60px/>
           
