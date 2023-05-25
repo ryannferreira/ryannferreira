@@ -3,7 +3,7 @@
 
 Atualmente estou cursando Sistemas de Informação na Universidade Santa Cecília. Sempre procuro melhorar minha lógica de programação e aprender mais sobre a linguagem/framework que estou utilizando. Gosto muito de programar em C#, é a linguagem que mais utilizo e a que me sinto mais à vontade, mas também estou interessado em explorar outras tecnologias. Além dos estudos, também desenvolvo projetos pessoais para aprimorar minhas habilidades.
 
-## Ferramentas e tecnologias
+## Ferramentas e tecnologias:
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" widht = 60px, height=60px/>
@@ -14,7 +14,7 @@ Atualmente estou cursando Sistemas de Informação na Universidade Santa Cecíli
                    
              
         
-## Estou aprendendo
+## Estou aprendendo:
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css&theme=light)](https://skillicons.dev)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" widht = 50px, height=50px/>
