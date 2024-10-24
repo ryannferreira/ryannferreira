@@ -1,7 +1,7 @@
 ## Olá, eu sou o Ryan!
 
 
-Atualmente estou cursando Sistemas de Informação na Universidade Santa Cecília. Sempre procuro melhorar minha lógica de programação e aprender mais sobre a linguagem/framework que estou utilizando. Gosto muito de programar em C#, é a linguagem que mais utilizo e a que me sinto mais à vontade, mas também estou interessado em explorar outras tecnologias. Além dos estudos, também desenvolvo projetos pessoais para aprimorar minhas habilidades.
+Atualmente, estou cursando o Bacharelado em Sistemas de Informação na Universidade Santa Cecília e trabalho como Analista de Sistemas Jr. No meu dia a dia, atuo com customizações e suporte em aplicações do setor portuário. As tecnologias que mais utilizo são Groovy/Java e SQL/HQL. Nos meus projetos pessoais, gosto bastante de desenvolver REST APIs usando o Spring Framework e também no ambiente .NET, além de criar aplicações desktop em Windows Forms.
 
 ## Ferramentas e tecnologias:
 
@@ -9,7 +9,9 @@ Atualmente estou cursando Sistemas de Informação na Universidade Santa Cecíli
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" widht = 60px, height=60px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" widht = 60px, height=60px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht = 60px, height=60px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" widht = 60px, height=60px/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" widht = 60px, height=60px/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" widht = 60px, height=60px/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" widht = 60px, height=60px/> 
  <div/>     
                    
              
@@ -17,9 +19,9 @@ Atualmente estou cursando Sistemas de Informação na Universidade Santa Cecíli
 ## Estou aprendendo:
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css&theme=light)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" widht = 50px, height=50px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" widht = 60px, height=60px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" widht = 60px, height=60px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" widht = 60px, height=60px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" widht = 60px, height=60px/>
           
 ## Contato:
 
