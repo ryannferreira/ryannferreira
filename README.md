@@ -19,8 +19,8 @@ Atualmente, estou cursando o Bacharelado em Sistemas de Informação na Universi
 ## Estou aprendendo:
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css&theme=light)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" widht = 60px, height=60px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" widht = 60px, height=60px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" widht = 60px, height=60px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" widht = 60px, height=60px/>
           
 ## Contato:
