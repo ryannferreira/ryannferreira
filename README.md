@@ -1,7 +1,7 @@
 ## Olá, eu sou o Ryan!
 
 
-Atualmente, estou cursando o Bacharelado em Sistemas de Informação na Universidade Santa Cecília e trabalho como Analista de Sistemas Jr. No meu dia a dia, atuo com customizações e suporte em aplicações do setor portuário. As tecnologias que mais utilizo são Groovy/Java e SQL/HQL. Nos meus projetos pessoais, gosto bastante de desenvolver REST APIs usando o Spring Framework e também no ambiente .NET, além de criar aplicações desktop em Windows Forms.
+Atualmente atuando como Tech Lead em projetos ligados ao TOS (Terminal Operating System) N4 - Navis. Trabalho com Groovy, Java, SQL e HQL no desenvolvimento de soluções customizadas para operações portuárias.
 
 ## Ferramentas e tecnologias:
 
